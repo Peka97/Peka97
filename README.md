@@ -2,7 +2,7 @@ In the summer of 2021, I got a job in the <a href='https://eda.yandex.ru/'>Yande
 
 In June 2021 he graduated from <a href='https://sgmu.ru/'>medical university</a> and decided to turn his life around.
 
-Since September 2021, I began to study Python in detail on the <a href='https://www.sololearn.com/'>Sololearn</a> platform, watched various lessons on the Internet, and finally came to study at <a href='https://gb.ru/'>GeekBrains</a> at the faculty of Python Developer. My 
+Since September 2021, I began to study Python in detail on the <a href='https://www.sololearn.com/'>Sololearn</a> platform, watched various lessons on the Internet, and finally came to study at <a href='https://gb.ru/'>GeekBrains</a> at the faculty of Python Developer.
 
 Since June 2022 I have been working in the monitoring department of <a href='https://www.rusagrogroup.ru/ru/'>RusAgro IT</a>, actively studying programming and languages.
 
