@@ -20,6 +20,8 @@ Some facts:
 - Sang in a rock band (we play a grunge).
 - Dream about traveling.
 
+Watch my certificates -> <a href='https://disk.yandex.ru/d/gHCuL4aTA2LTrg'>link</a>
+
 Contacts:
 - Telegram: @loner97
 - e-mail: ivan.karasyov97@gmail.com
