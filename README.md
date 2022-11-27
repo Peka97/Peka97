@@ -10,20 +10,24 @@ My main goal is to advance myself as a developer by gaining experience in a comp
 <hr/>
 My skills:
 <ul>
-<li>Pro BugHunter: my special talent is to find and break something that, it would seem, should not even break even without my special desire. One way or another, mistakes will not pass!</li>
-<li>Idea's generator: as a rule, I can offer several solutions to tech. problem (the main thing is not to forget the simplest of them).</li>
-<li>Accuracy: moderately perfectionist, I like neat code.</li>
-<li>Enthusiasm and perseverance: medical qualifications tempered my mind and character as it should.</li>
-<li>Part of the team - part of the ship: I know how to work in a team, I am sociable, I easily get along with people.</li>
+  <li>Pro BugHunter: my special talent is to find and break something that, it would seem, should not even break even without my special desire. One way or another, mistakes will not pass!</li>
+  <li>Idea's generator: as a rule, I can offer several solutions to tech. problem (the main thing is not to forget the simplest of them).</li>
+  <li>Accuracy: moderately perfectionist, I like neat code.</li>
+  <li>Enthusiasm and perseverance: medical qualifications tempered my mind and character as it should.</li>
+  <li>Part of the team - part of the ship: I know how to work in a team, I am sociable, I easily get along with people.</li>
 </ul>
 <hr/>
 Some facts:
-- Worked as a technician at concerts, lifeguard, tech. L1 support (really hard days).
-- Sang in a rock band (we play a grunge).
-- Dream about traveling.
+<ul>
+  <li>Worked as a technician at concerts, lifeguard, tech. L1 support (really hard days).</li>
+  <li>Sang in a rock band (we play a grunge).</li>
+  <li>Dream about traveling.</li>
+</ul>
 <hr/>
 My certificates -> <a href='https://disk.yandex.ru/d/gHCuL4aTA2LTrg'>link</a>
 <hr/>
 Contacts:
-- Telegram: @loner97
-- e-mail: ivan.karasyov97@gmail.com
+<ul>
+  <li>Telegram: @loner97</li>
+  <li>e-mail: ivan.karasyov97@gmail.com</li>
+ </ul>
