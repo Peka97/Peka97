@@ -9,11 +9,13 @@ Since June 2022 I have been working in the monitoring department of <a href='htt
 My main goal is to advance myself as a developer by gaining experience in a company that is willing to work with me.
 <hr/>
 My skills:
-- Pro BugHunter: my special talent is to find and break something that, it would seem, should not even break even without my special desire. One way or another, mistakes will not pass!
-- Idea's generator: as a rule, I can offer several solutions to tech. problem (the main thing is not to forget the simplest of them).
-- Accuracy: moderately perfectionist, I like neat code.
-- Enthusiasm and perseverance: medical qualifications tempered my mind and character as it should.
-- Part of the team - part of the ship: I know how to work in a team, I am sociable, I easily get along with people.
+<li>
+<ul>Pro BugHunter: my special talent is to find and break something that, it would seem, should not even break even without my special desire. One way or another, mistakes will not pass!</ul>
+<ul>Idea's generator: as a rule, I can offer several solutions to tech. problem (the main thing is not to forget the simplest of them).</ul>
+<ul>Accuracy: moderately perfectionist, I like neat code.</ul>
+<ul>Enthusiasm and perseverance: medical qualifications tempered my mind and character as it should.</ul>
+<ul>Part of the team - part of the ship: I know how to work in a team, I am sociable, I easily get along with people.</ul>
+</li>
 <hr/>
 Some facts:
 - Worked as a technician at concerts, lifeguard, tech. L1 support (really hard days).
