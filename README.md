@@ -1,30 +1,25 @@
-In the summer of 2021, I got a job in the <a href='https://eda.yandex.ru/'>Yandex.Food</a> monitoring department and over the next year, being self-taught, worked on automating workflows through the creation of Telegram-Bot.
+С лета 2021 года закончился путь студента-медика, которым меня видели, и начался путь в IT, где я чувствовал себя своим. Первым шагом было устройство в <a href='https://eda.yandex.ru/'>Yandex.Food</a> через первую линию в отдел мониторинга. За 2 года в компании я прошёл путь от рядового младшего специалиста первой линии до старшего специалиста отдела мониторинга, налаживал и развивал автоматизацию, писал бота для взаимодействия отделов (КЦ по нескольким направлениям, менеджеры и мониторинг). Паралельно с этим обучался по книгам, YouTube, статьям, после дополнив самостоятельные занятия записью на курсы GeekBrains (с 12 мая 2022г. по 14 декабря 2023г.). Курс дал значительный буст уверенности в выбранном пути.
 
-In June 2021 he graduated from <a href='https://sgmu.ru/'>medical university</a> and decided to turn his life around.
+По стечению обстоятельств отдел мониторинга в <a href='https://eda.yandex.ru/'>Yandex.Food</a> сократили и дальше мой путь проходил через <a href='https://rusagro.tech/'>РусАгроТехнологии</a> в отдел мониторинга IT-сервисов. Познакомился с большой и сложной инфраструктурой компании, обучился постановке и поддержке мониторинга, созданию собственных элементов данных, триггеров и шаблонов, интеграции существующих решений, разработке бота для взаимодействия с Zabbix API, парсер информации с vcloud, поработал с GitLab.
+Параллельно было принято решение начать собственный проект, который развивается по сей день: <a href='https://verbal-voyager.ru/'>Verbal Voyager</a>.
 
-Since September 2021, I began to study Python in detail on the <a href='https://www.sololearn.com/'>Sololearn</a> platform, watched various lessons on the Internet, and finally came to study at <a href='https://gb.ru/'>GeekBrains</a> at the faculty of Python Developer.
-
-Since June 2022 I have been working in the monitoring department of <a href='https://www.rusagrogroup.ru/ru/'>RusAgro IT</a>, actively studying programming and languages.
-
-My main goal is to advance myself as a developer by gaining experience in a company that is willing to work with me.
-<hr/>
-My skills:
+Проект представляет платформу для планирования и отслеживания проектов и занятий с учениками по различным языкам. Платформа является крайне удобной и функциональной как для преподавателей, так и для студентов. Её возможности:
 <ul>
-  <li>Pro BugHunter: my special talent is to find and break something that, it would seem, should not even break even without my special desire. One way or another, mistakes will not pass!</li>
-  <li>Idea's generator: as a rule, I can offer several solutions to tech. problem (the main thing is not to forget the simplest of them).</li>
-  <li>Accuracy: moderately perfectionist, I like neat code.</li>
-  <li>Enthusiasm and perseverance: medical qualifications tempered my mind and character as it should.</li>
-  <li>Part of the team - part of the ship: I know how to work in a team, I am sociable, I easily get along with people.</li>
+  <li>Составление проекта с регулярными занятими и долгосрочными целями;</li>
+  <li>Автоматическое составление расписания согласно созданному проекту, отслеживания различных статусов урока (проведение, оплата и т.д.), назначение и отметка домашнего задания;</li>
+  <li>Составление плана занятий, автоматическое создание упражнений по изученным словам;</li>
+  <li>Гибкая система с кастомными упражнениями и разделением их на категории;</li>
+  <li>Большой словарь, содержащий не только перевод или род слова, но и примеры употребления, аудио и медиа контент;</li>
+  <li>Удобный функционал на сайте и широкие возможности в административном разделе;</li>
 </ul>
+
+Серьезный подход к самостоятельной разработке от начала и до конца - инфраструктурная разбивка на dev и prod независимые серверы, продумывание архитектуры приложения, разворачивание, конфигурирование, мониторинг, оптимизация и развитие.
+Использую современные технологии для разработки и установки новых фич (ruff, pytest), актуализирую версии Python, используемых библиотек и дополнительного ПО.
+Проект имеет 50+ пользователей ежедневно, получает положительные отзывы как со стороны преподавателей, так и студентов.
+
+
 <hr/>
-Some facts:
-<ul>
-  <li>Worked as a technician at concerts, lifeguard, tech. L1 support (really hard days).</li>
-  <li>Sang in a rock band (we play a grunge).</li>
-  <li>Dream about traveling.</li>
-</ul>
-<hr/>
-My certificates -> <a href='https://disk.yandex.ru/d/gHCuL4aTA2LTrg'>link</a>
+<a href='https://disk.yandex.ru/d/gHCuL4aTA2LTrg'>Мои образовательные сертификаты</a>
 <hr/>
 Contacts:
 <ul>
